@@ -56,3 +56,4 @@ Telemetry Sources        |  Governance & Secrets |  direnv / GCS creds / API key
 - [Data Artifacts Required for Final Insights Generation](data_artifacts.md) — inventories every artefact written during enrichment, workblock processing, AI enhancement, and brief generation, with paths, producers, and payload contents.
 - [Atomic Slices Definition & Implementation Guide](ATOMIC_SLICES_DEFINITION.md) — explains how atomic slices are constructed, why minute-level keystroke aggregation sets hard boundaries, and how consolidation reduces token usage without losing telemetry.
 - [4-Phase Keystroke Matching Algorithm Reference](4_phase_matching_algorithm_reference.md) — details the preprocessing and four matching phases that guarantee 100% keystroke attribution, including synthetic gap/orphan activities and cross-app detection.
+- [Performance Metrics — Overview](performance_metrics_overview.md) — definitions, interpretation, data sources, privacy, and version snapshot.
