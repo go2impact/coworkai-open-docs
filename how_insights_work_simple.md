@@ -4,7 +4,7 @@ This quick guide explains how raw workplace signals are transformed into the bri
 
 ## Step 1. Capture Workplace Signals
 
-We collect several categories of telemetry before any prompts run:
+We collect several categories of telemetry before any prompt run:
 
 - **Application activity** – which apps and websites were active, when they were used, and how long each session lasted.
 - **Keystrokes** – minute-level aggregates of the keys pressed inside each app, preserving the original characters such as `<Cmd>`, `<Tab>`, and `<Backspace>`.
